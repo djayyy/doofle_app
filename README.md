@@ -7,3 +7,4 @@ It will provide you with multiple questions matching with your search query and 
 In our initial prototype phase we have tried to integrate the best results for any Development or Recipe of foods related search query.
 
 We have also included a facility for video tutorials which can be directly played from the site.
+Technologies used: API's (YouTube, StackExchange, Edamam),  Javascript, HTML, and CSS
